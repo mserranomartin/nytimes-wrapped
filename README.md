@@ -1,6 +1,6 @@
 # NYT Games Wrapped
 
-This repository has the tools to create a wrap-up of your Wordle and Connections results against a friend from a WhatsApp chat where you have been sharing them with one another.
+This repository has the tools to create a wrap-up of your Wordle and Connections results against a friend from a WhatsApp chat where you have been sharing them with one another. Download or clone the repository to your computer and follow the instructions.
 
 There are two folders in the repository. The `/R` folder contains the code to extract the results form your WhatsApp export file. It will produce two Excel files of results, `results_connections.xlsx` and `results_wordle.xlsx`. The `/PowerPoint` folder contains the PowerPoint template for the wrap-up. This presentation is linked to the said Excel files.
 
