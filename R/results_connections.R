@@ -1,6 +1,7 @@
 # parameters
 chat_filepath <- file("Chat de WhatsApp con Alicia YoduroDaluminio.txt")
 
+# process - don't change
 library(dplyr)
 source("parser-functions.R")
 connections <- chat_filepath |> readLines() |> parse_connections()
